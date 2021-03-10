@@ -1,0 +1,82 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+}
+.font {
+  font-family: "Akaya Telivigala", cursive;
+  font-size: 70px;
+}
+
+.about {
+  font-family: "Akaya Telivigala", cursive;
+  padding-left: 40px;
+}
+.data {
+  font-family: "Akaya Telivigala", cursive;
+  padding-left: 20px;
+  font-size: 35px;
+  padding-top: 42px;
+}
+.aboutme {
+  font-family: "Akaya Telivigala", cursive;
+  padding-left: 40px;
+  font-size: 60px;
+}
+.header {
+  font-family: "Dancing Script", cursive;
+}
+.contac {
+  width: 50%;
+}
+.mailfont {
+  font-family: "Dancing Script", cursive;
+  color: #95a5a6;
+  padding-right: 20px;
+}
+.resume {
+  width: 55%;
+}
+.myskills {
+  font-family: "Akaya Telivigala", cursive;
+  font-size: 60px;
+}
+.img {
+  width: 330px;
+  height: 350px;
+}
+@media only screen and (max-width: 800px) {
+  .img {
+    width: 250px;
+    height: 250px;
+    padding-right: 0px;
+  }
+  .aboutme {
+    padding-left: 70px;
+    font-size: 2.5rem;
+  }
+  .myskills {
+    font-size: 2.5rem;
+  }
+  .data {
+    padding-left: 40px;
+    font-size: 20px;
+    padding-top: 40px;
+  }
+  .about {
+    padding-left: 0px;
+  }
+  .font {
+    font-size: 2rem;
+  }
+  .contac {
+    width: 90%;
+  }
+  .mailfont {
+    display: none;
+  }
+  .resume {
+    width: 100%;
+  }
+}
