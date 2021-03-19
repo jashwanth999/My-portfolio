@@ -112,7 +112,7 @@ export default function About() {
             </span>
             <br /> Jashwanth B
             <br />
-            Hyderbad
+            Hyderabad
             <br />
             Telangana
             <br />
