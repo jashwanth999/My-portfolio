@@ -138,12 +138,13 @@ export default function Resume() {
             data-aos="fade-up"
             variant="contained"
             style={{
-              backgroundColor: "#E11B57",
+               backgroundColor: "#E11B57",
               color: "white",
               width: 230,
               fontSize: 14,
               marginTop: 20,
-              marginLeft: 40
+              position: "relative",
+              left: 20
             }}
           >
             Download Resume
