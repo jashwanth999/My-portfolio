@@ -46,6 +46,10 @@
   width: 330px;
   height: 350px;
 }
+.fonts {
+  color: white;
+  ]padding-right: 5px;
+}
 @media only screen and (max-width: 800px) {
   .img {
     width: 250px;
@@ -78,5 +82,14 @@
   }
   .resume {
     width: 100%;
+  }
+  .king {
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+  }
+  .fonts {
+    display: none;
+    font-size: 0;
   }
 }
