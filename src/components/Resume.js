@@ -121,7 +121,10 @@ export default function Resume() {
             />
           </div>
         </div>
-        <div style={{ display: "flex", flexDirection: "column" }}>
+        <div
+          className="king"
+          style={{ display: "flex", flexDirection: "column" }}
+        >
           <p
             data-aos="fade-up"
             className="data"
@@ -138,7 +141,7 @@ export default function Resume() {
             data-aos="fade-up"
             variant="contained"
             style={{
-               backgroundColor: "#E11B57",
+              backgroundColor: "#E11B57",
               color: "white",
               width: 230,
               fontSize: 14,
