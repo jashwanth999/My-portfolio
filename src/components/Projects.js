@@ -81,7 +81,7 @@ export default function Projects() {
                 style={{ color: "white" }}
               >
                 It is a real time chat application created using React native
-                and it is Crass platform application
+                and it is Cross platform application
               </Typography>
             </CardContent>
           </CardActionArea>
