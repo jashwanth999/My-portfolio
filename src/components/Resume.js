@@ -149,7 +149,7 @@ export default function Resume() {
           >
             Databases: MYSQL, Mongodb, Firebase
             <br />
-            Programming Languages: SQL,Java,C++,C,Python,Javascript,Dart
+            Programming Languages:Java,Python
             <br />
     
           </p>
