@@ -147,9 +147,11 @@ export default function Resume() {
             className="data"
             style={{ color: "#EC7063", fontWeight: "bold" }}
           >
-            Databases: SQL, Mongodb, Firebase
+            Databases: MYSQL, Mongodb, Firebase
             <br />
-          
+            Programming Languages: SQL,Java,C++,C,Python,Javascript,Dart
+            <br />
+    
           </p>
           <Button
             data-aos="fade-up"
