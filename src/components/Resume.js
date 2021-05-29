@@ -103,6 +103,23 @@ export default function Resume() {
               style={{ height: 34, width: "100%", marginTop: 10 }}
             />
           </div>
+         <div
+            data-aos="fade-up"
+            style={{
+              display: "flex",
+              flexDirection: "column",
+              width: "90%",
+              maxWidth: 600,
+              textAlign: "left",
+              paddingTop: 10
+            }}
+          >
+            <h4 style={{ color: "white" }}>Flutter</h4>
+            <ProgressBar
+              now={60}
+              style={{ height: 34, width: "100%", marginTop: 10 }}
+            />
+          </div>
           <div
             data-aos="fade-up"
             style={{
@@ -132,10 +149,7 @@ export default function Resume() {
           >
             Databases: SQL, Mongodb, Firebase
             <br />
-            Libraries: Pygame,opencv,pickle
-            <br />
-            Misc: Git,colabs
-            <br />
+          
           </p>
           <Button
             data-aos="fade-up"
